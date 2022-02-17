@@ -43,20 +43,33 @@ _________________________________________________________
 ### Analysis
 
 Results from a Linear Regression Model
+#### Location 
+- Airbnbs in Jamaica Plains are lower in price unless it is cleansed then the price is higher.
+- Neighborhoods with cheaper airbnb properties:
+    - Allston-Brighton
+    - Dorchester
+    - zipcode 02130
+    - South End
+- Neighborhood with more expensive airbnb properties:
+    - Beacon Hill
+    - South Boston
+    - Back Bay
+    - zipcode 02116 
+- Review score on location also leads to increased price
 
-#### Location
-- Airbnbs are priced higher in zipcode 02116.
-- Review score on location also increases the price
 #### Size
-- Host are more likely to charge more for renting the entire home but house tend to be cheaper
-- Host renting out apartments will charge less
-- A private room also tends to cost less.
-- Airbnbs with 1-2 beds or one bathroom tend to be cheaper
-- Airbnbs with 2 bedrooms or 2 bathrooms will cost more a night.
-- Host charge more for real beds
+- Renting a house will have a lower price while its the opposite for a condo and apartment.
+- Renting the entire house or just a private room both increase the price
+- Number of beds, bedrooms, and bathrooms will have an influence on pricing
+    - 0-2 bedrooms lower the price
+    - 1 bathroom has a negative effect on pricing
+    - 2 bathrooms increase the pricing
+    - 3 beds lower the price more than 1-2 beds
+    - Real beds increase the price
 - How many an airbnb can accommodate will increase the price
+
 #### Reviews
 - Host review ratings score and review location scores will have a positive influence on pricing
 - Review score values and review score check-in has a negative influence on pricing
-- Review score of cleanliness will raise the prices.
+- Review score of cleanliness and communication will raise the prices. 
 
